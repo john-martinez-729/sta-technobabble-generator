@@ -6,6 +6,13 @@ export function AppFooter() {
         Created by <a href="https://johnmartinez.dev/">John Martinez</a>.
       </p>
       <p>
+        Provide{" "}
+        <a href="https://github.com/john-martinez-729/sta-technobabble-generator">
+          feedback
+        </a>
+        .
+      </p>
+      <p>
         <a href="https://www.flaticon.com/free-icons/geek" title="geek icons">
           Geek icons created by Pixel perfect - Flaticon
         </a>
